@@ -1,0 +1,1 @@
+plot(specdata$Global_active_power ~ specdata$DateTime,  xlab= "", ylab = "Global Active power (kilowatts)", type ="l" )
